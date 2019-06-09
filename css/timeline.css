@@ -45,10 +45,12 @@ body
 {
   float: left;
   text-align: right;
+  clear: both;
 }
 
 .timeline ul li:nth-child(even)
 {
   float: right;
   text-align: left;
+  clear: both;
 }
