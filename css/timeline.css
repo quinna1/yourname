@@ -46,3 +46,9 @@ body
   float: left;
   text-align: right;
 }
+
+.timeline ul li:nth-child(even)
+{
+  float: right;
+  text-align: left;
+}
